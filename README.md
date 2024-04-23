@@ -3,5 +3,5 @@
 
 <img src="https://github-readme-stats-ten-mu-73.vercel.app/api?username=alioftech&layout=compact&theme=gruvbox" alt="" width="100%">
 
-<img src="https://github-readme-stats-ten-mu-73.vercel.app/api?username=another-username&layout=compact&theme=gruvbox" alt="" width="100%">
+<img src="https://github-readme-stats-ten-mu-73.vercel.app/api/top-langs/?username=alioftech&layout=compact&theme=gruvbox" alt="" width="100%">
 
